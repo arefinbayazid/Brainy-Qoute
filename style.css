@@ -108,9 +108,7 @@
         transform: rotate(90deg);
     }
     .col_4 h1{
-        top: 600px;
-        left: 25px;
-        transform: rotate(90deg);
+        display: none;
     }
     .col_6 h1{
         top: 1050px;
